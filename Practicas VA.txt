@@ -1,0 +1,3 @@
+Practicas Visión Artificial
+
+Hacer el histograma más estrecho pierde contraste. Si lo mueves para abajo, se oscurece, para arriba, se aclara.
